@@ -10,3 +10,5 @@ Una vez con el archivo, utilizamos la herramienta unzip para descomprimir y desp
 sudo bash autodeploy.sh chocolatelovers.tar
 ```
 <img width="1277" height="918" alt="imagen" src="https://github.com/user-attachments/assets/ca738b90-420e-4f34-bfcf-eba34167f936" />
+
+<img width="1277" height="918" alt="imagen" src="https://github.com/user-attachments/assets/32f775ec-c57d-42fb-9135-35893ebfc24b" />
